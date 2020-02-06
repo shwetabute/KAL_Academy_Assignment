@@ -1,0 +1,22 @@
+
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0
+	border: 0;
+}
+
+
+#head1{
+	font-size: 140%;
+	font-weight: bold;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+
+#mb {
+	background-color: #d3d3d3;
+}

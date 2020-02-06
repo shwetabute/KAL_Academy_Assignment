@@ -1,0 +1,17 @@
+div {
+  width: 200pt;
+  padding: 5pt;
+  margin: 5pt;
+  border: 1px solidlightgreay;
+  font-size: 16pt;
+}
+
+
+.yellowback{
+	background-color: yellow;
+
+}
+
+.blueback{
+	background-color: lightblue;
+}
